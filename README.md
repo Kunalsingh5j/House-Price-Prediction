@@ -4,16 +4,17 @@ Tasks:
 Part 1: Data Preprocessing
         Importing libraries and Dataset
         Data Exploration
-        Dealing with Missing values
-        Dealing with Categorical Variables
-        One Hot Encoding
+        Missing Value Treatment
+             Continous Variable Treatment
+             Categorical Variable Treatment
         Correlation Matrix and Heatmap
+        Encoding Categorical Variable
         Splitting the dataset
         Feature Scaling
 Part 2: Model Building
-        Logistic Regression
-        Random Forest Classification
-        XgBoost Classification
+        Linear Regression
+        Random Forest Regression
+        XgBoost Regression
 Part 3: HyperParameter Tuning
 Part 4: Final Model
-Part 5: Single Value Prediction
+
